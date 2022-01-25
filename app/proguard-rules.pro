@@ -231,10 +231,10 @@
 
 -keepattributes *Annotation*, InnerClasses
 -dontnote kotlinx.serialization.SerializationKt
--keep,includedescriptorclasses class io.wookey.wallet.**$$serializer { *; } # <-- change package name to your app's
--keepclassmembers class io.wookey.wallet.** { # <-- change package name to your app's
+-keep,includedescriptorclasses class io.gamerope.wallet.**$$serializer { *; } # <-- change package name to your app's
+-keepclassmembers class io.gamerope.wallet.** { # <-- change package name to your app's
     *** Companion;
 }
--keepclasseswithmembers class io.wookey.wallet.** { # <-- change package name to your app's
+-keepclasseswithmembers class io.gamerope.wallet.** { # <-- change package name to your app's
     kotlinx.serialization.KSerializer serializer(...);
 }

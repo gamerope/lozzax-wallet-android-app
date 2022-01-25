@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Monero Wallet</string>
+    <string name="app_name">Lozzax Wallet</string>
 
     <string name="slogan">For Privacy</string>
-    <string name="wallet_prompt">When using Monero Wallet you must first create a new wallet or restore an existing one.</string>
+    <string name="wallet_prompt">When using Lozzax Wallet you must first create a new wallet or restore an existing one.</string>
     <string name="create_wallet">Create Wallet</string>
     <string name="recovery_wallet">Restore Wallet</string>
 
@@ -55,7 +55,7 @@
     <string name="node_setting">Node</string>
     <string name="language">Language</string>
     <string name="contact_us">Contact Us</string>
-    <string name="about_us">About WooKey</string>
+    <string name="about_us">About Lozzax</string>
     <string name="edit_node_url">Enter a valid node address</string>
     <string name="edit_node_url_hint">Please enter node address</string>
     <string name="current_node_prompt">Current node is %1$s</string>
@@ -278,7 +278,7 @@
     <string name="swap_detail">Swap Details</string>
 
     <string name="dialog_swap_risk_title">Risk Warning</string>
-    <string name="dialog_swap_risk">The swap service is powered by Changelly, a third-party platform. Users must agree to the user agreement and rules of Changelly before using this service. For any questions, please directly contact Changelly by sending email to support@changelly.com for help. Wookey Wallet is not responsible for direct or indirect losses caused by this service.</string>
+    <string name="dialog_swap_risk">The swap service is powered by Changelly, a third-party platform. Users must agree to the user agreement and rules of Changelly before using this service. For any questions, please directly contact Changelly by sending email to support@changelly.com for help. Lozzax Wallet is not responsible for direct or indirect losses caused by this service.</string>
     <string name="dialog_swap_risk_know">I already know the risk</string>
 
     <string name="dialog_swap_extra_id_title">ExtraID</string>

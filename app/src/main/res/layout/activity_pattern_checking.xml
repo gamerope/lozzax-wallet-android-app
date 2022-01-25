@@ -7,7 +7,7 @@
     android:background="@color/color_FFFFFF"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context="io.wookey.wallet.feature.auth.PatternCheckingActivity">
+    tools:context="io.gamerope.wallet.feature.auth.PatternCheckingActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"

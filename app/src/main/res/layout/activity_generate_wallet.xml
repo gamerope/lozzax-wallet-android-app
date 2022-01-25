@@ -98,7 +98,7 @@
                     android:textAlignment="textStart" />
             </com.google.android.material.textfield.TextInputLayout>
 
-            <io.wookey.wallet.widget.GradeIndicator
+            <io.gamerope.wallet.widget.GradeIndicator
                 android:id="@+id/passwordGrade"
                 android:layout_width="14dp"
                 android:layout_height="28dp"

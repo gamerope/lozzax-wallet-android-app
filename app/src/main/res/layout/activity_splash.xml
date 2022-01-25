@@ -10,5 +10,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="135dp"
-        android:src="@drawable/icon_splash_wookey" />
+        android:src="@drawable/icon_splash_gamerope" />
 </LinearLayout>

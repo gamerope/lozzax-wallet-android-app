@@ -7,7 +7,7 @@
     android:background="@color/color_FFFFFF"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context="io.wookey.wallet.feature.auth.PatternSettingActivity">
+    tools:context="io.gamerope.wallet.feature.auth.PatternSettingActivity">
 
     <com.github.ihsg.patternlocker.PatternIndicatorView
         android:id="@+id/patternIndicatorView"

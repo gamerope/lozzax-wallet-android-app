@@ -14,7 +14,7 @@
         android:layout_height="match_parent"
         android:fillViewport="true">
 
-        <io.wookey.wallet.widget.InterceptTouchEventLayout
+        <io.gamerope.wallet.widget.InterceptTouchEventLayout
             android:id="@+id/intercept"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -39,7 +39,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="25dp"
-                    android:text="XMR"
+                    android:text="LOZZ"
                     android:textStyle="bold"
                     app:layout_constraintBottom_toBottomOf="@id/divider1"
                     app:layout_constraintStart_toStartOf="parent"
@@ -401,7 +401,7 @@
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@id/swapBg" />
             </androidx.constraintlayout.widget.ConstraintLayout>
-        </io.wookey.wallet.widget.InterceptTouchEventLayout>
+        </io.gamerope.wallet.widget.InterceptTouchEventLayout>
     </androidx.core.widget.NestedScrollView>
 
 </LinearLayout>

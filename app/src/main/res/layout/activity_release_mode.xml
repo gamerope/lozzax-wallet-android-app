@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"
-    tools:context="io.wookey.wallet.feature.wallet.ReleaseModeActivity">
+    tools:context="io.gamerope.wallet.feature.wallet.ReleaseModeActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

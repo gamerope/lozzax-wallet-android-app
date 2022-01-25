@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Monero Wallet</string>
+    <string name="app_name">Lozzax Wallet</string>
 
     <string name="slogan">为 隐 私 而 生</string>
-    <string name="wallet_prompt">使用 Monero Wallet 至少需要一个钱包，您可以选择创建钱包或导入已有的钱包</string>
+    <string name="wallet_prompt">使用 Lozzax Wallet 至少需要一个钱包，您可以选择创建钱包或导入已有的钱包</string>
     <string name="create_wallet">创建钱包</string>
     <string name="recovery_wallet">导入钱包</string>
 
@@ -278,7 +278,7 @@
     <string name="swap_detail">兑换详情</string>
 
     <string name="dialog_swap_risk_title">风险提示</string>
-    <string name="dialog_swap_risk">兑换服务由第三方平台Changelly提供，用户使用兑换服务必须同意Changelly平台的用户协议及规则，若用户在兑换中有任何问题，可通过联系Changelly指定邮箱support@changelly.com获得帮助，Wookey Wallet不承担因使用兑换功能而遭受的或与该功能相关的损失。</string>
+    <string name="dialog_swap_risk">兑换服务由第三方平台Changelly提供，用户使用兑换服务必须同意Changelly平台的用户协议及规则，若用户在兑换中有任何问题，可通过联系Changelly指定邮箱support@changelly.com获得帮助，Lozzax Wallet不承担因使用兑换功能而遭受的或与该功能相关的损失。</string>
     <string name="dialog_swap_risk_know">我已知晓该风险</string>
 
     <string name="dialog_swap_extra_id_title">ExtraID</string>

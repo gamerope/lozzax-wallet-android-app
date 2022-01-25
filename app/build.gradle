@@ -15,7 +15,7 @@ static def computeVersionName() {
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "io.wookey.wallet.monero"
+        applicationId "io.gamerope.wallet.lozzax"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode computeVersionCode()
@@ -53,7 +53,7 @@ android {
         variant.outputs.all { output ->
             def abiName = output.getFilter(com.android.build.OutputFile.ABI)
             if (abiName == null) abiName = "universal"
-            outputFileName = "monero-${variant.versionName}-${variant.versionCode}-${abiName}.apk"
+            outputFileName = "lozzax-${variant.versionName}-${variant.versionCode}-${abiName}.apk"
         }
     }
 }

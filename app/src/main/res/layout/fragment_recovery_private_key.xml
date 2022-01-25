@@ -125,7 +125,7 @@
             android:layout_marginEnd="30dp"
             android:text="@string/block_height_prompt" />
 
-        <io.wookey.wallet.widget.InterceptTouchFrameLayout
+        <io.gamerope.wallet.widget.InterceptTouchFrameLayout
             android:id="@+id/dateContainer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -147,7 +147,7 @@
                     android:inputType="date"
                     android:textAlignment="textStart" />
             </com.google.android.material.textfield.TextInputLayout>
-        </io.wookey.wallet.widget.InterceptTouchFrameLayout>
+        </io.gamerope.wallet.widget.InterceptTouchFrameLayout>
 
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/blockHeight"

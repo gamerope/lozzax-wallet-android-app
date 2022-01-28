@@ -1,4 +1,4 @@
-package io.gmaerope.wallet.support
+package io.gamerope.wallet.support
 
 import io.gamerope.wallet.App
 import io.gamerope.wallet.support.extensions.versionCode

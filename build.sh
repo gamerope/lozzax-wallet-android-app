@@ -18,7 +18,7 @@ mkdir -p build/src
 make all
 if [ $? -eq 0 ]; then
 cd $current_path
-mkdir -p monero-libs/{monero,boost,openssl,libsodium}/lib/{arm64-v8a,armeabi-v7a}
+mkdir -p monero-libs/{monero,boost,openssl,libsodium}/lib/{arm64-v8a,armeabi-v7a,x86_64}
 cp -a /tmp/monero-android-lib/external-libs/build/build/monero/arm/lib/* monero-libs/monero/lib/armeabi-v7a/
 cp -a /tmp/monero-android-lib/external-libs/build/build/monero/arm64/lib/* monero-libs/monero/lib/arm64-v8a/
 cp -a /tmp/monero-android-lib/external-libs/build/build/boost/arm/lib/* monero-libs/boost/lib/armeabi-v7a/
